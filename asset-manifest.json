@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/responsive-navbar-with-tailwind/static/css/main.b4160525.css",
+    "main.js": "/responsive-navbar-with-tailwind/static/js/main.af0e3a08.js",
+    "static/js/787.396ba19d.chunk.js": "/responsive-navbar-with-tailwind/static/js/787.396ba19d.chunk.js",
+    "index.html": "/responsive-navbar-with-tailwind/index.html",
+    "main.b4160525.css.map": "/responsive-navbar-with-tailwind/static/css/main.b4160525.css.map",
+    "main.af0e3a08.js.map": "/responsive-navbar-with-tailwind/static/js/main.af0e3a08.js.map",
+    "787.396ba19d.chunk.js.map": "/responsive-navbar-with-tailwind/static/js/787.396ba19d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4160525.css",
+    "static/js/main.af0e3a08.js"
+  ]
+}
