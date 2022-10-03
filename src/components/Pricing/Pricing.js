@@ -11,14 +11,14 @@ const Pricing = () => {
         'Extra Awesome Premium Features'
     ]},
     { id: 2, name: "Medium", price: 9.99, features: [
-        'Awesome Feature',
+        'Everything is free',
         'Extra Feature',
         'Premium Feature',
         'Extra Premium Features',
         'Extra Awesome Premium Features'
     ] },
     { id: 3, name: "Premium", price: 19.99, features: [
-        'Awesome Feature',
+        'Everything is premium',
         'Extra Feature',
         'Premium Feature',
         'Extra Premium Features',
@@ -30,7 +30,7 @@ const Pricing = () => {
       <h1 className="text-5xl font-bold bg-indigo-300 p-12 text-white">
         Best Deal Of The Town
       </h1>
-      <div className="grid grid-cols-3 gap-3">
+      <div className="grid md:grid-cols-3 gap-3">
         {pricingOptions.map((option) => (
           <PriceOption key={option.id} option={option}></PriceOption>
         ))}
