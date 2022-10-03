@@ -1,5 +1,6 @@
 import './App.css';
 import Navbar from './components/Navbar/Navbar';
+import PhoneBar from './components/PhoneBar/PhoneBar';
 import AssignmentsMarks from './components/Pricing/AssignmentsMarks/AssignmentsMarks';
 import Pricing from './components/Pricing/Pricing';
 
@@ -12,6 +13,7 @@ function App() {
     </h1>
     <Pricing></Pricing>
     <AssignmentsMarks></AssignmentsMarks>
+    <PhoneBar></PhoneBar>
     </div>
   );
 }
