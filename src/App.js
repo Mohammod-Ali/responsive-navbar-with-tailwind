@@ -1,5 +1,6 @@
 import './App.css';
 import Navbar from './components/Navbar/Navbar';
+import AssignmentsMarks from './components/Pricing/AssignmentsMarks/AssignmentsMarks';
 import Pricing from './components/Pricing/Pricing';
 
 function App() {
@@ -10,6 +11,7 @@ function App() {
       Hello world!
     </h1>
     <Pricing></Pricing>
+    <AssignmentsMarks></AssignmentsMarks>
     </div>
   );
 }
